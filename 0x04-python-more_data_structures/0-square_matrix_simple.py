@@ -5,4 +5,4 @@ def square_matrix_simple(matrix=[]):
       return None
 
     # using list comprehension
-    return [[a*a for a in matrix_list] for matrix_list in matrix]
+    return [[a*a for a in matrix_list] for matrix_list in matrix))]
